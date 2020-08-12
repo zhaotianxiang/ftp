@@ -26,8 +26,8 @@
 
 		<dependency>
 			<groupId>com.enterprisedt</groupId>
-			<artifactId>edtftpj-pro</artifactId>
-			<version>2.1.0</version>
+			<artifactId>edtFTPj</artifactId>
+			<version>1.5.3</version>
 		</dependency>
 
 		<dependency>
